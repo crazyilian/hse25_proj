@@ -49,9 +49,9 @@
 |  Amino_oxidase | LOC118276484 |  7874210 |  7874233|
 
 
-## Подсчёт ZDNABERT, ZHUNT, квадруплексы
+## ZDNABERT, ZHUNT, квадруплексы
 
-[google colab](https://colab.research.google.com/drive/16Wp2ZhF2aLNtto8i0iHQwy3XCe1kCAk6?usp=sharing)
+[google colab (подсчёт)](https://colab.research.google.com/drive/16Wp2ZhF2aLNtto8i0iHQwy3XCe1kCAk6?usp=sharing)
 
 * ZDNABERT работал $\approx 460$ минут
 * ZHUNT работал $\approx 215$ минут
@@ -59,7 +59,9 @@
 
 Результаты работы (bed файлы) находятся в папке [data](/data/).
 
-## Таблица 1
+[google colab (анализ)](https://colab.research.google.com/drive/1ZfczUxIS5Fo9BUmvc_2sB2KgkV2J8Xnl?usp=sharing)
+
+### Таблица 1
 
 | Участок | Число квадруплексов | Доля квадруплексов | Число предсказаний Zhunt | Доля предсказаний Zhunt | Число предсказаний ZDNABERT | Доля предсказаний ZDNABERT |
 |------------|---------|----------|---------|----------|---------|----------|
@@ -70,7 +72,7 @@
 | Intergenic | 4631    | 0.300285 | 17527   | 0.011563 | 19683   | 0.235378 |
 
 
-## Таблица 2
+### Таблица 2
 
 | Участок | Число участков квадруплексов | Доля участков квадруплексов | Число участков предсказаний Zhunt | Доля участков предсказаний Zhunt | Число участков предсказаний ZDNABERT | Доля участков предсказаний ZDNABERT |
 |------------|---------|----------|---------|----------|---------|----------|
